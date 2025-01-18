@@ -1,16 +1,28 @@
 {
-  "name": "register_form",
+  "name": "todo_list",
   "version": "1.0.0",
-  "description": "register form with login logout",
+  "description": "A simple Todo List application that allows users to add, update, and delete tasks. Users can also categorize tasks, set priorities, and mark tasks as completed.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
-    "node",
-    "js",
-    "project"
+    "todo",
+    "task",
+    "productivity",
+    "task-manager",
+    "nodejs"
   ],
   "author": "Sonia Giri",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2"
+  }
 }
