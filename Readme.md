@@ -1,4 +1,6 @@
-# TO DO LIST
+### TO DO LIST
+backend folder stuctured learned from youtuber Hitesh Choudhary
+frontend folder stuctured learned from youtuber Kevin Powell
 
 ## UI Design
 The UI design of the To-Do List app is created in Figma. You can view it here:
@@ -10,6 +12,4 @@ The UI design of the To-Do List app is created in Figma. You can view it here:
  black color = 252525
 
  w= 750px
-
-
  fs = 26px, 20px, 16px, 18px
