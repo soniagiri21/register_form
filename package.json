@@ -1,0 +1,16 @@
+{
+  "name": "register_form",
+  "version": "1.0.0",
+  "description": "register form with login logout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "project"
+  ],
+  "author": "Sonia Giri",
+  "license": "ISC"
+}
